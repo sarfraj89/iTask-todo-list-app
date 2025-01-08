@@ -8,32 +8,33 @@ iTask’s design is focused on clarity and simplicity. It eliminates unnecessary
 
 Whether it’s for personal use or professional productivity, iTask is the perfect companion to organize your life.
 
-## *Features of iTask*  
+## Features of iTask  
 
-- *Add Tasks*: Easily add tasks with just a few clicks to keep track of your to-dos.  
-- *Edit Tasks*: Update task details anytime to accommodate changes in priorities or deadlines.  
-- *Delete Tasks*: Remove completed or unnecessary tasks effortlessly.  
-- *Save Tasks Locally*: All tasks are saved to the local host, ensuring data persistence even after closing the app.  
-- *Modern UI/UX*: A clean, intuitive interface that makes task management enjoyable and hassle-free.  
+1. Add Tasks: Easily add tasks with just a few clicks to keep track of your to-dos.  
+2. Edit Tasks: Update task details anytime to accommodate changes in priorities or deadlines.  
+3. Delete Tasks: Remove completed or unnecessary tasks effortlessly.  
+4. Save Tasks Locally: All tasks are saved to the local host, ensuring data persistence even after closing the app.  
+5. Modern UI/UX: A clean, intuitive interface that makes task management enjoyable and hassle-free.  
 
 ## Installation
 
 1. Clone the Repository:
-bash
+```bash
 git clone https://github.com/sarfraj89/iTask-todo-list-app.git
+```
 
 2. Navigate to the Project Directory
-bash
+```bash
 cd iTask
-
+```
 3. Install Dependencies
-bash
+```bash
 npm install
-
+```
 4. Open the App
-bash
+```bash
 npm run dev
-
+```
 
 ## Usage of iTask
 1. Add a Task
